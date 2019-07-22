@@ -12,4 +12,4 @@ This is the final course project for the Getting and Cleaning Data course by Joh
 8. Uses dcast to find the average of the 66 mean/std variables.
 9. Creates a tidy data set arranged by activity and subject ID and write to a text file. 
 
-The end result is shown in the tidydata.txt file. To recreate this process download the UCI HAR Dataset provided in this repository.
+The end result is shown in the tidydata.txt file. To recreate this process download the UCI HAR Dataset provided in this repository and address variable must be altered to appropriate file locations.
